@@ -1,0 +1,35 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+
+  color-scheme: light dark;
+  user-select: none;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    background: #ffffff;
+  }
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+html.dark {
+  background: #000000;
+  --el-bg-color: #000000;
+}
+html.light {
+  background: #ffffff;
+  --el-bg-color: #ffffff; 
+}
+
+*::-webkit-scrollbar{
+  display: none;
+}
