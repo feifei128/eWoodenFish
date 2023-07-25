@@ -17,4 +17,4 @@
 ## 📖 介绍
 
 1. 技术栈：Vue3 + TS + Vueuse + Unocss
-1. 静态站点由【[Netlify](https://www.netlify.com/)】搭建部署， [玩一局](https://joyful-monstera-06e5b3.netlify.app)
+1. 静态站点由【[Netlify](https://www.netlify.com/)】搭建部署， [玩一局](https://e-wooden-fish.netlify.app/)
